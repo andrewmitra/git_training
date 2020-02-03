@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 kdfnsjdfhsjdhskdjhjfdsjkfdsjkjksdjdj
 jfsdjhdfsjndom text
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. <3
+ndom text
+>>>>>>> 3df0106ae90857956c529cfd2f6421f8e85c5a46
